@@ -44,7 +44,7 @@
                 ],
                 "type": "object",
                 "properties": {
-                    "quyer": {
+                    "query": {
                         "type": "string",
                         "description": "What the user is looking for"
                     }
