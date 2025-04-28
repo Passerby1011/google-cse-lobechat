@@ -4,7 +4,6 @@
     "identifier": "google-cse",
     "author": "vsnthdev",
     "homepage": "https://github.com/vsnthdev/google-cse-lobechat",
-    "gateway": "https://google-cse-lobechat.vercel.app/api/gateway",
     "meta": {
         "avatar": "https://banner2.cleanpng.com/20180413/rfe/avfci721i.webp",
         "tags": [
